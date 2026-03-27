@@ -1,0 +1,11 @@
+Bird Species Observation Analysis Report
+
+Includes:
+- Data Cleaning
+- EDA Insights
+- Environmental Analysis
+- ML Model
+- Dashboard
+
+Key Insight:
+Forest has higher biodiversity than grassland.
